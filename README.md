@@ -1,2 +1,2 @@
-# cdn-frontend.rev.com
-takeover 
+# 
+takeovered by attacker
